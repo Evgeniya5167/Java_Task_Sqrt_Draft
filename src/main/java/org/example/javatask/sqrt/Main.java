@@ -1,0 +1,10 @@
+package org.example.javatask.sqrt;
+public class Main {
+
+    public static void main(String[] args) {
+
+        int x = 27;
+
+
+    }
+}
